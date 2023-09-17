@@ -1,4 +1,4 @@
-﻿
+//t đã ghé thăm﻿
 namespace _32_713_TranLeTuanDat_Tuan01
 {
     partial class Form1
