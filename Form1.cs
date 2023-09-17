@@ -16,5 +16,9 @@ namespace _32_713_TranLeTuanDat_Tuan01
         {
             InitializeComponent();
         }
+        public void chucnang()
+        {
+            
+        }
     }
 }
